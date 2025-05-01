@@ -1,5 +1,5 @@
 {
-  "name": "ccaia",
+  "name": "cypress_copilot",
   "displayName": "Cypress Copilot",
   "description": "Cypress Copilot is a Visual Studio Code extension that automates web testing by generating code for Cypress and Cucumber/BDD frameworks. With AI-powered code generation, users can input BDD scenarios, choose an OpenAI model, and instantly create step definitions and Page Object Model (POM) code.",
   "version": "1.0.6",
